@@ -1,0 +1,11 @@
+/Users/MDR/workspace/csharp/exercises/lighting-exercises/lighting/obj/Debug/netcoreapp2.1/lighting.csprojAssemblyReference.cache
+/Users/MDR/workspace/csharp/exercises/lighting-exercises/lighting/obj/Debug/netcoreapp2.1/lighting.csproj.CoreCompileInputs.cache
+/Users/MDR/workspace/csharp/exercises/lighting-exercises/lighting/obj/Debug/netcoreapp2.1/lighting.AssemblyInfoInputs.cache
+/Users/MDR/workspace/csharp/exercises/lighting-exercises/lighting/obj/Debug/netcoreapp2.1/lighting.AssemblyInfo.cs
+/Users/MDR/workspace/csharp/exercises/lighting-exercises/lighting/bin/Debug/netcoreapp2.1/lighting.deps.json
+/Users/MDR/workspace/csharp/exercises/lighting-exercises/lighting/bin/Debug/netcoreapp2.1/lighting.runtimeconfig.json
+/Users/MDR/workspace/csharp/exercises/lighting-exercises/lighting/bin/Debug/netcoreapp2.1/lighting.runtimeconfig.dev.json
+/Users/MDR/workspace/csharp/exercises/lighting-exercises/lighting/bin/Debug/netcoreapp2.1/lighting.dll
+/Users/MDR/workspace/csharp/exercises/lighting-exercises/lighting/bin/Debug/netcoreapp2.1/lighting.pdb
+/Users/MDR/workspace/csharp/exercises/lighting-exercises/lighting/obj/Debug/netcoreapp2.1/lighting.dll
+/Users/MDR/workspace/csharp/exercises/lighting-exercises/lighting/obj/Debug/netcoreapp2.1/lighting.pdb
